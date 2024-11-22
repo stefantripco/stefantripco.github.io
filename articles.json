@@ -1,0 +1,32 @@
+[
+    {
+        "id": 2,
+        "title": "This is the article name",
+        "published_at": "2018-04-04T16:00:00.000Z",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus, eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.",
+        "slug": "slug-one",
+        "image": {
+            "url": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80"
+        }
+    },
+    {
+        "id": 3,
+        "title": "This is the article name two",
+        "published_at": "2018-04-04T16:00:00.000Z",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus, eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.",
+        "slug": "slug-two",
+        "image": {
+            "url": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80"
+        }
+    },
+    {
+        "id": 1,
+        "title": "This is the article name three",
+        "published_at": "2018-04-04T16:00:00.000Z",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus, eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.",
+        "slug": "slug-three",
+        "image": {
+            "url": "https://images.unsplash.com/photo-1547586696-ea22b4d4235d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80"
+        }
+    }
+]

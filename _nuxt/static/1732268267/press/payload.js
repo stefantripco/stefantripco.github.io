@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/press", {data:[{}],fetch:{"0":{_error:{message:"Cannot read properties of undefined (reading 'find')",statusCode:500}}},mutations:void 0});
